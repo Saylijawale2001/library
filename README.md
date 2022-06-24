@@ -11,8 +11,9 @@ pytz==2022.1
 sqlparse==0.4.2
 tzdata==2022.1
 
+createdatabase named library in your mysql-client 
 migrate database first 
 1.python manage.py makemigrations.
 2.python manage.py migrate.
-register admin using superuser
-3.python manage.py createsuperuser
+
+
